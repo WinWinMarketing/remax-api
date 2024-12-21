@@ -1,0 +1,16 @@
+{
+  "name": "remax",
+  "version": "1.0.0",
+  "description": "REMAX PHOTO EDITOR",
+  "repository": {
+    "type": "git",
+    "url": ".gitignore"
+  },
+  "license": "ISC",
+  "author": "CHAN",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
